@@ -1,0 +1,68 @@
+Info 0    [13:15:14.842] Starting TS Server
+Info 1    [13:15:14.843] Version: 4.2.4
+Info 2    [13:15:14.843] Arguments: /usr/bin/node /usr/bin/tsserver --logFile /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/3b393c64a17eeb055e8184f08a1ea61c/tscancellation*
+Info 3    [13:15:14.843] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [13:15:14.843] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [13:15:14.868] Search path: /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib
+Info 6    [13:15:14.869] For info: /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib/index.js :: No config files found.
+Info 7    [13:15:14.874] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [13:15:20.358] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 5484.407131999731ms
+Info 9    [13:15:20.358] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [13:15:20.359] 	Files (248)
+
+Info 11   [13:15:20.359] -----------------------------------------------
+Info 12   [13:15:24.162] DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules/@types/lodash :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 13   [13:15:24.163] Elapsed:: 0.30059200525283813ms DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules/@types/lodash :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 14   [13:15:24.163] DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules/@types/node :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 15   [13:15:24.163] Elapsed:: 0.040585994720458984ms DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules/@types/node :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 16   [13:15:24.164] DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules/@types/eslint :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 17   [13:15:24.164] Elapsed:: 0.04235900938510895ms DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules/@types/eslint :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 18   [13:15:25.445] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [13:15:26.174] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 728.2576210051775ms
+Info 20   [13:15:26.174] Project '/dev/null/inferredProject1*' (Inferred)
+Info 21   [13:15:26.174] 	Files (236)
+
+Info 22   [13:15:26.174] -----------------------------------------------
+Info 23   [13:15:27.695] Before ensureProjectForOpenFiles:
+Info 24   [13:15:27.695] After ensureProjectForOpenFiles:
+Info 25   [13:15:27.696] got projects updated in background, updating diagnostics for /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib/index.js
+Info 26   [13:15:29.114] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 27   [13:15:31.041] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 1926.5533220022917ms
+Info 28   [13:15:31.041] Project '/dev/null/inferredProject1*' (Inferred)
+Info 29   [13:15:31.041] 	Files (1146)
+
+Info 30   [13:15:31.041] -----------------------------------------------
+Info 31   [13:15:31.080] DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 32   [13:15:31.080] Elapsed:: 0.05697700381278992ms DirectoryWatcher:: Triggered with /home/gjones/.cache/typescript/4.2/node_modules :: WatchInfo: /home/gjones/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 33   [13:15:31.364] Before ensureProjectForOpenFiles:
+Info 34   [13:15:31.384] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 35   [13:15:32.197] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 812.7327350080013ms
+Info 36   [13:15:32.197] Different program with same set of files:: structureIsReused:: 1
+Info 37   [13:15:32.200] After ensureProjectForOpenFiles:
+Info 38   [13:15:32.200] got projects updated in background, updating diagnostics for /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib/index.js
+Info 39   [13:15:33.885] Before ensureProjectForOpenFiles:
+Info 40   [13:15:33.885] After ensureProjectForOpenFiles:
+Info 41   [13:15:33.885] got projects updated in background, updating diagnostics for /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib/index.js
+Info 42   [13:23:59.262] Search path: /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib
+Info 43   [13:23:59.263] For info: /home/gjones/src/git/scr/crypto/kucoin/blessed-contrib/index.d.ts :: No config files found.
+Info 44   [13:26:57.689] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 45   [13:26:57.850] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 160.81718100607395ms
+Info 46   [13:26:57.851] Different program with same set of files:: structureIsReused:: 2
+Info 47   [13:26:58.121] getCompletionData: Get current token: 0.02273198962211609
+Info 48   [13:26:58.122] getCompletionData: Is inside comment: 0.06683500111103058
+Info 49   [13:26:58.122] Returning an empty list because completion was inside a regular comment or plain text part of a JsDoc comment.
+Info 50   [13:26:58.127] getCompletionData: Get current token: 0.01705200970172882
+Info 51   [13:26:58.127] getCompletionData: Is inside comment: 0.06250700354576111
+Info 52   [13:26:58.127] Returning an empty list because completion was inside a regular comment or plain text part of a JsDoc comment.
+Info 53   [13:26:58.128] getCompletionData: Get current token: 0.012313008308410645
+Info 54   [13:26:58.128] getCompletionData: Is inside comment: 0.09505800902843475
+Info 55   [13:26:58.128] Returning an empty list because completion was inside a regular comment or plain text part of a JsDoc comment.
+Info 56   [13:27:24.774] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 57   [13:27:24.959] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 184.3920850008726ms
+Info 58   [13:27:24.960] Different program with same set of files:: structureIsReused:: 2
+Info 59   [13:27:25.137] getCompletionData: Get current token: 0.021701008081436157
+Info 60   [13:27:25.137] getCompletionData: Is inside comment: 0.04030600190162659
+Info 61   [13:27:25.138] Returning an empty list because completion was inside a regular comment or plain text part of a JsDoc comment.
+Info 62   [13:27:29.177] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 63   [13:27:29.314] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 137.4258939921856ms
+Info 64   [13:27:29.315] Different program with same set of files:: structureIsReused:: 2

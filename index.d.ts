@@ -131,7 +131,7 @@ declare namespace BlessedContrib {
         export class BarElement extends CanvasElement<BarData> implements IHasOptions<BarOptions> {
             constructor(opts: BarOptions);
 
-            setData(data: BarData): void;
+//            setData(data: BarData): void;
 
             options: BarOptions;
         }
@@ -274,8 +274,8 @@ declare namespace BlessedContrib {
 
             setStack(stack: Array<{ percent: number, stroke: string }>): void;
 
-            setData(percent: number[]): void;
-            setData(percent: number): void;
+//            setData(percent: number[]): void;
+//            setData(percent: number): void;
         }
 
 
